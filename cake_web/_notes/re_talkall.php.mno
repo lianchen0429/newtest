@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs" value="name:t_id;datatype:int,name:t_acc;datatype:string,name:t_title;datatype:string,name:t_text;datatype:string,name:t_date;datatype:string,name:t_sort;datatype:int,name:click_num;datatype:int,name:ed_time;datatype:string" />
+	<infoitem key="UD_rers" value="name:reta_id;datatype:int,name:talk_id;datatype:int,name:re_acc;datatype:string,name:re_text;datatype:string,name:re_dd;datatype:string" />
+	<infoitem key="UD_r1" value="name:t_id;datatype:int,name:t_acc;datatype:string,name:t_title;datatype:string,name:t_text;datatype:string,name:t_date;datatype:string,name:t_sort;datatype:int,name:click_num;datatype:int,name:ed_time;datatype:string" />
+</info>
